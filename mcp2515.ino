@@ -6,10 +6,11 @@
  3. Creation date
  Feb 2010
  4. Last modification date
- March 16th, 2010
+ December 16th, 2012
  - Split out source into functions
  5. Author's name
- Terry Kolody
+ Terry Kolody 
+ Last modified by Paul Thomas
  
  6. Copyright notice
     This file is part of g8MediaNav.
@@ -35,6 +36,8 @@
  - Split out source into functions
  March 19th, 2011
  - Added GPL boilerplate
+ December 12th, 2012
+ - Rewrite send functions to accept variable length array of data to send
  
  9. Dependencies
  
